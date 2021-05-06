@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/homepage/</loc>
+  </url>
+  
+  <url>
+    <loc>/404/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/services/medichna/</loc>
+  </url>
+  
+  <url>
+    <loc>/services/mizhnarodni/</loc>
+  </url>
+  
+  <url>
+    <loc>/services/nebezpechni/</loc>
+  </url>
+  
+  <url>
+    <loc>/services/avtobus/</loc>
+  </url>
+  
+  <url>
+    <loc>/services/legkovinazamovlennya/</loc>
+  </url>
+  
+  <url>
+    <loc>/services/taksi/</loc>
+  </url>
+  
+  <url>
+    <loc>/services/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+</urlset>
