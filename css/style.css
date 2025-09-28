@@ -6080,16 +6080,16 @@ html {
   background-color: #43454d; }
 
 .page-services-single .content > p:first-of-type {
-  font-size: 1.2rem;
-  line-height: 1.5;
+  font-size: 0.95rem;
+  line-height: 1.4;
   margin-bottom: 40px;
-  font-weight: 300; }
+  font-weight: 700; }
   @media (min-width: 768px) {
     .page-services-single .content > p:first-of-type {
-      font-size: 1.4rem;
+      font-size: 1.1rem;
       line-height: 1.4;
       margin-bottom: 40px;
-      font-weight: 300; } }
+      font-weight: 700; } }
 .service-summary {
   display: flex;
   align-items: flex-start; }
